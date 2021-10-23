@@ -17,7 +17,7 @@ Ext.define('MyApp.view.MyWindow', {
             items: [
                 {
                     xtype: 'button',
-                    text: 'MyButton'
+                    text: 'myBtn'
                 }
             ]
         });
